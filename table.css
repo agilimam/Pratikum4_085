@@ -1,0 +1,62 @@
+body{
+    background-color: plum;
+    background-repeat: no-repeat;
+}
+
+#judul {
+    font-family: 'Courier New', Courier, monospace;
+    color:black;
+    text-align: center;
+    margin: 0%;
+    font-size: 20pt;
+    background-color:white;
+}
+
+
+
+table {
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 20px;
+}
+
+#jdl{
+    text-align: center;
+}
+
+#member {
+    width: 100px;
+    display: inline-block;
+}
+
+#mnama{
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing:  1px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+}
+
+#mclass{
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing:  1px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+}
+
+#mback{
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing:  1px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.left-div {
+    width: 100px;
+    display: inline-block;
+}
